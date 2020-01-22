@@ -1,0 +1,2 @@
+Whether flask server is up and running.
+flask runs on port 5000.

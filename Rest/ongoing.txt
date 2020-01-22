@@ -1,0 +1,2 @@
+the need to expose the search engine to the user.
+the need to collect documents on the web.
